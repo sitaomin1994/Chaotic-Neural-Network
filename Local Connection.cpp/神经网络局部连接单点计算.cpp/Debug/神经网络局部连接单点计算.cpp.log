@@ -1,0 +1,28 @@
+﻿生成启动时间为 2017/5/30 23:08:42。
+     1>项目“C:\Users\lenovo\Desktop\神经网络\神经网络局部连接单点计算.cpp\神经网络局部连接单点计算.cpp\神经网络局部连接单点计算.cpp.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\神经网络局部连接单点计算.cpp.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files\c\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "CN-single computation.cpp"
+         CN-single computation.cpp
+     1>c:\users\lenovo\desktop\神经网络\神经网络局部连接单点计算.cpp\神经网络局部连接单点计算.cpp\cn-single computation.cpp(32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\c\vc\include\stdio.h(235) : 参见“fopen”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files\c\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo\Desktop\神经网络\神经网络局部连接单点计算.cpp\Debug\神经网络局部连接单点计算.cpp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\神经网络局部连接单点计算.cpp.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lenovo\Desktop\神经网络\神经网络局部连接单点计算.cpp\Debug\神经网络局部连接单点计算.cpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo\Desktop\神经网络\神经网络局部连接单点计算.cpp\Debug\神经网络局部连接单点计算.cpp.lib" /MACHINE:X86 "Debug\神经网络局部连接单点计算.cpp.exe.embed.manifest.res"
+         "Debug\CN-single computation.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\神经网络局部连接单点计算.cpp.exe.embed.manifest" /manifest "Debug\神经网络局部连接单点计算.cpp.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         神经网络局部连接单点计算.cpp.vcxproj -> C:\Users\lenovo\Desktop\神经网络\神经网络局部连接单点计算.cpp\Debug\神经网络局部连接单点计算.cpp.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\神经网络局部连接单点计算.cpp.unsuccessfulbuild”。
+         正在对“Debug\神经网络局部连接单点计算.cpp.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\lenovo\Desktop\神经网络\神经网络局部连接单点计算.cpp\神经网络局部连接单点计算.cpp\神经网络局部连接单点计算.cpp.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.07
